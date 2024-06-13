@@ -1,7 +1,7 @@
 # SeleniumWebDriver
-<h1>Working with Web Elements, Handling exception and synchronization, Advanced Interanctions</h1>
+<h1>Working with Web Elements, Handling exception and synchronization, Advanced Interactions</h1>
 
- ### [YouTube Demonstration]([https://youtu.be/7eJexJVCqJo](https://www.youtube.com/watch?v=HjYEjKWSbe8&list=PLhW3qG5bs-L_8bwNnMHdJ1Wq5M0sUmpSH))
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=HjYEjKWSbe8&list=PLhW3qG5bs-L_8bwNnMHdJ1Wq5M0sUmpSH)
 
 
 <h2>Description</h2>
@@ -29,7 +29,7 @@ This project consists a wide range of topics from Selenium WebDriver Basics and 
 
 <h2>Environments Used </h2>
 
-- <b> Eclipse IDE
+- <b> Eclipse IDE, JDK, JUnit
 
 <h2>Selenium Locators</h2>
 
